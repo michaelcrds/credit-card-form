@@ -4,7 +4,7 @@
 - [Imagens](#imagens)
 - [Tecnologias](#tecnologias)
 - [Conhecimentos adquiridos](#conhecimentos-adquiridos)
-- [Implementações futuras](#implementacoes-futuras)
+- [Implementações futuras](#implementações-futuras)
 - [Autor](#autor)
 
 ## Desafio
