@@ -19,7 +19,8 @@ O usuário deve ser capaz de:
 
 ## Imagens
 
-![Captura de tela 2022-10-24 171158](https://user-images.githubusercontent.com/61437530/197620099-aece0f5e-9289-48b6-a28b-1271d97537d6.png)
+![Captura de tela 2022-10-24 171158](https://user-images.githubusercontent.com/61437530/197624775-72bad173-5932-4ac2-9416-aadd267cc355.png)
+
 
 ## Tecnologias
 
