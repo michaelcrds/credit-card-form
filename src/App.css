@@ -1,0 +1,36 @@
+.App {
+    display: grid;
+    height: 100vh;
+    background-image: url('./assets/images/bg-main-desktop.png');
+    background-repeat: no-repeat;
+    background-color: #f9f9f9;
+}
+
+.left__column {
+    grid-column: 1;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+    padding-right: 3em;
+    gap: 3em;
+}
+
+.left__column .card-front-side-container{
+    position: relative;
+    right: 15rem;
+}
+
+.left__column .card-back-side-container{
+    position: relative;
+    right: 5rem;
+}
+
+.right__column {
+    grid-column: 2;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 3em;
+}

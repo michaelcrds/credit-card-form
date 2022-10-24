@@ -1,0 +1,39 @@
+.card-front-side-container {
+    display: flex;
+    align-items: center;
+    width: 447px;
+    height: 245px;
+    background-image: url('../../assets/images/bg-card-front.png');
+    background-repeat: no-repeat;
+    justify-content: center;
+}
+
+.card-front-side{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    min-width: 354px;
+}
+
+.card-logo{
+    margin-bottom: 4rem;
+}
+
+.card-number{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 2rem;
+    color: #fff;
+}
+
+.card-number p{
+    max-width: 100%;
+    margin: 0;
+}
+
+.card-info{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}

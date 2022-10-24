@@ -1,0 +1,18 @@
+.card-back-side-container{
+    width: 447px;
+    height: 245px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-image: url('./../../assets/images/bg-card-back.png');
+    background-repeat: no-repeat;
+}
+
+.card-back-side-container p{
+    position: relative;
+    right: 3.5rem;
+    bottom: 0.1rem;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: #fff;
+}

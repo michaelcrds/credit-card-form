@@ -1,0 +1,53 @@
+
+.form_container form{
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form_container form label {
+    letter-spacing: 0.5px;
+}
+
+.form_container form input {
+    margin-bottom: 1rem;
+    padding: 0.6em;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
+
+.form_container form input:focus{
+    outline: none;
+}
+
+.form_container form input::placeholder{
+    color: hsl(270, 3%, 87%);
+}
+
+.card-details{
+    display: flex;
+    gap: 1;
+}
+
+.valid-thru-inputs{
+    display: flex;
+    gap: 0.5rem;
+    width: 95%;    
+}
+
+.valid-thru-inputs input{
+    width: 50%;
+}
+
+.form_container form button{ 
+    padding: 0.8em;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    background-color: hsl(278, 68%, 11%);
+    color: #fff;
+    cursor: pointer;
+    margin-top: 1rem;
+}
